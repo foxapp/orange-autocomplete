@@ -4,7 +4,7 @@
   "version": "0.2.0",
   "description": "Orange package, custom autocomplete provider for Atom.",
   "repository": "https://github.com/foxapp/orange-autocomplete",
-  "author": "Ion Enache <developer@foxapp.net> (http://foxapp.net)",
+  "author": "Ion Enache <developer@foxapp.net> (http://foxapp.net/)",
   "license": "MIT",
   "engines": {
     "atom": ">=1.15.0 <2.0.0"
