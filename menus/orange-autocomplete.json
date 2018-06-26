@@ -1,0 +1,16 @@
+"menu": [
+  {
+    "label": "Packages",
+    "submenu": [
+      {
+        "label": "Orange Autocomplete",
+        "submenu": [
+          {
+            "label": "Toggle",
+            "command": "orange-autocomplete:toggle"
+          }
+        ]
+      }
+    ]
+  }
+]

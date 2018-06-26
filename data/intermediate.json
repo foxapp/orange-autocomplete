@@ -1,0 +1,32 @@
+[
+	{
+		"text": "orange_square",
+		"description": "<ul> Orange",
+		"descriptionMoreURL": "",
+		"parent": "<ul>"
+	},
+	{
+		"text": "omd-bg-color-",
+		"description": "<omd-bg-color-{1..9}> Orange",
+		"descriptionMoreURL": "",
+		"parent": "all elements"
+	},
+	{
+		"text": "omd-alb",
+		"description": "Culoarea alba la text, Orange",
+		"descriptionMoreURL": "",
+		"parent": "all elements"
+	},
+	{
+		"text": "onWhite",
+		"description": "Butonul in intregime Negru pe suprafete albe, Orange",
+		"descriptionMoreURL": "",
+		"parent": "<Button>"
+	},
+	{
+		"text": "onBlack",
+		"description": "Butonul in intregimeAlb pe suprafete inchise, Orange",
+		"descriptionMoreURL": "",
+		"parent": "<Button>"
+	}
+]

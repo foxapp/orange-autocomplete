@@ -1,0 +1,22 @@
+[
+	{
+		"displayText": "@snippet1",
+		"snippet":"<div class=\"row\"><div class=\"col-xs-6 text-left\"><a href=\"?l=<?=roru(\"1\",\"2\")?>&p=1&c=1&sc=12&n=-1\" ><i class=\"fa fa-angle-left omd-orange\" aria-hidden=\"true\"></i> <?php echo roru(\"toate\",\"все\"); ?></a></div><div class=\"col-xs-6 text-right\">${1}.xx.2018</div></div><div class=\"spacer5\"></div><div class=\"spacer10\" style=\"width:100%;border-top:1px solid #d7d7d7;\"></div><h1 class=\"hdr-H3\"><strong>xxxxxxxxxxxxxxxxxxxxxxx</strong> </h1><div class=\"spacer10\"></div><p class=\"hdr-H7\" style=\"line-height: 1.3\">xxxxxxxxxxxxxxxx</p><div class=\"spacer20\"></div><div class=\"row\"><div class=\"col-xs-12 col-sm-6\"><p>xxxxxxxxxxxxxxxxx</p></div><div class=\"col-xs-12 col-sm-6\"><div  class=\"embed-responsive embed-responsive-16by9\"><iframe allowfullscreen class=\"embed-responsive-item\" src=\"//www.youtube.com/embed/xxxxxx\"></iframe></div><div class=\"spacer20\"></div><p>xxxxxxxxxxxxxxxxxxxxx</p></div><div class=\"spacer20\"></div><?php getOrangeGallery(\"images/news/xx.xx.xxxx/gallery\",\"50\",\"70\"); ?></div><div class=\"spacer20\"></div>",
+		"description": "Default News Template"
+	},
+	{
+		"displayText": "@template2",
+		"snippet": "Replace ${1:this text} then hit tab to replace ${2:this other text}.",
+		"description": "Modernizarea Retelei News Template"
+	},
+	{
+		"displayText": "@template3",
+		"snippet": "Start typing to replace ${1:multiple} ${1:text} ${1:simultaneously}. Then hit tab to ${2:do} ${2:it} ${2:again}.",
+		"description": "Accident in Retea News Template"
+	},
+	{
+		"displayText": "@template4",
+		"snippet": "You don't need filler text for your prompts. Start typing: $1 (notice where the cursor is).",
+		"description": "Final snippet."
+	}
+]
